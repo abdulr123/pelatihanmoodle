@@ -1,0 +1,106 @@
+Dalam menyusun suatu program, langkah pertama yang harus dilakukan adalah :
+A. Membuat program                
+B. Membuat Algoritma                    
+C. Membeli komputer             
+D. Proses
+ANSWER: B
+	
+Sebuah prosedur langkah demi langkah yang pasti untuk menyelesaikan sebuah masalah 
+A. Proses                      
+B. Program      
+C. Algoritma               
+D. Prosesor
+ANSWER: C
+	
+Pseudocode yang digunakan pada penulisan algoritma dapat berupa :
+A. Bahasa Inggris
+B. Bahasa Puitis
+C. Bahasa pemrograman
+D. Sembarang bahasa asal terstruktur
+ANSWER:     
+	
+Pada saat pembuatan program komputer, algoritma dibuat :
+A. Sebum pembuatan program
+B. Pada saat program dibuat
+C. Sesudah pembuatan program
+D. Pada saat verifikasi program
+ANSWER: A   
+	
+Tahapan dalam menyelesaikan suatu masalah adalah :
+A. Masalah – Pseudocode – Flowchart – Program –    Eksekusi – Hasil
+B. Masalah – Algoritma – Flowchart – Program –       Eksekusi – Hasil
+C. Masalah – Model – Algoritma – Eksekusi – Hasil
+D. Masalah – Model –  Algoritma – Program – Eksekusi– Hasil
+ANSWER: A
+
+Diketahui bahwa kantong P kosong, kantong Q berisi 10 buah kelereng dan kantong R berisi 15 kelereng.  Apabila yang terbawa hanya sebuah kantong dan dikatakan BUKAN Kantong P yang terbawa, maka jumlah kelereng yang terbawa adalah :
+A. 10                                         
+B. 15         
+C. 10 atau 15                            
+D. 10 dan 15
+ANSWER: D
+
+Diberikan algoritma : Apabila warna merah maka jadi hijau. Apabila warna hijau maka jadi putih, selain warna merah dan hijau maka jadi ungu. Jika kondisi input warna adalah             hitam, maka warna jadi  :
+A. Merah                                              
+B. Ungu         
+C. Hijau                                                
+D. Putih   
+ANSWER: D
+      
+Instruksi P=Q akan mengakibatkan nilai P = nilai Q, dan nilai Q menjadi :
+A. Menjadi Sembarang Nilai
+B. Menjadi hampa     
+C. Q tetap      
+D. Menjadi 0
+ANSWER: C
+
+Apabila a=5, b = 10, maka jika diberikan instruksi a=b; b=a  akan mengakibatkan :
+A. a=0 , b=5                             
+B. a=10, b=5                     
+C. a=10 , b=0                           
+D. a=10, b=10
+ANSWER: A 
+	
+Diberikan algoritma P=10; P=P+5; Q=P.   Nilai P dan Q masing-masing adalah:
+A. 15 dan 0                             
+B. 0 dan 15
+C. 15 dan 15                            
+D. 10 dan 15
+ANSWER: A
+
+	
+Type data yang hanya mengenal kondisi True atau False pada Pascal programming, adalah :
+A. IF                             
+B. Bool       
+C. Integer                                 
+D. Character
+ANSWER: B
+ 
+	
+Dalam bahasa Pascal terdapat suatu tipe data yang  nilainya tidak boleh memiliki nilai desimal, yaitu :
+A. Real                         
+B. Bool         
+C. Integer                     
+D. Character
+ANSWER: B
+	
+Program Pascal dirancang pertama kali oleh :
+A. Al Khawarizmi                                
+B. Blaise Pascal
+C. Prof. Niklaus Wirth                      
+D. Borland
+ANSWER: B
+	
+Fungi standard yang digunakan untuk mengetahui nilai pendahulu dari suatu variabel disebut
+A. ORD                                                
+B. SUCC
+C. PRED                                             
+D. DIV
+ANSWER: A 
+	
+Pada Tipe data Boolean, berlaku operator-operator :            
+A. IF                             
+B. AND, OR, NOT         
+C. True, False               
+D. CASE
+ANSWER: D
